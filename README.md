@@ -1,7 +1,8 @@
-# Lançamento Oblíquo em Python
+<h1 align = "center"> Lançamento Oblíquo em Python </h1>
 
-> Simulador de Lançamento Oblíquo feito em Python. 
-> Com a intenção de ajudar alunos de Física do Ensino Médio que estejam vendo este conteúdo 
+![Badge de Concluido](https://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=BLUE?style=plastic&logo=appveyor)
+
+Simulador de Lançamento Oblíquo feito em Python, com a intenção de ajudar alunos de Física do Ensino Médio que estejam vendo este conteúdo 
  
 # Bibliotecas Utilizadas
 - Tkinter 
