@@ -27,11 +27,7 @@ Para que a simulação fique mais didática foi acrescentado a opção de mostra
 ![Grafico](https://user-images.githubusercontent.com/115511374/196822078-a0913dc2-d039-4764-9330-38ac0e7f6b07.png)
 
 > [!IMPORTANT]
-> Neste projeto foi usado a biblioteca `tkinter` para gerar a interface gráfica da simulação.
->
-> Esta biblioteca já vem junto instalada com o `Python`. 
->
-> Clone este projeto e excute o `requirements.txt`. O método correto depende do seu sistema operacional e de como o Python foi instalado inicialmente. 
+> Neste projeto foi usado a biblioteca `tkinter` para gerar a interface gráfica da simulação. Essa biblioteca, por padrão, é instalada juntamente com o Python. No entanto, dependendo do sistema operacional ou da forma como a linguagem foi instalada, pode ocorrer algum problema durante o processo de instalação, fazendo com que o tkinter não seja incluído automaticamente no ambiente Python.
 >
 > # Como verificar se o Tkinter está instalado?
 > Antes de tentar qualquer instalação, verifique se o programa já está instalado no seu sistema executando o seguinte comando no terminal ou prompt de comando: 
